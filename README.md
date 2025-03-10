@@ -22,5 +22,6 @@ This project is a simple web page that validates user input using JavaScript Reg
 - **Password:** Must contain at least 8 characters, including one uppercase letter, one lowercase letter, and one number.
 
 ## Live Demo
-[Click here to view the live demo]((https://calebmtuwetam.github.io/advanced_web_mid_sem/))
+[Click here to view the live demo
+(https://calebmtuwetam.github.io/advanced_web_mid_sem/)
 
