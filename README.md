@@ -23,5 +23,5 @@ This project is a simple web page that validates user input using JavaScript Reg
 
 ## Live Demo
 [Click here to view the live demo
-(https://calebmtuwetam.github.io/advanced_web_mid_sem/)
+(https://calebmtuwetam.github.io/advanced_web_mid_sem/index.html)
 
